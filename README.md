@@ -6,4 +6,4 @@
 
 - https://eduitit.site/downloads/plusclass/
 
-설치 파일은 `Releases` 에 자동으로 올라오며, 태그를 밀면 GitHub Actions 가 빌드해서 업로드합니다.
+설치 파일은 비공개 소스 저장소에서 빌드·검증한 뒤 이 저장소의 `Releases`에만 게시합니다.
